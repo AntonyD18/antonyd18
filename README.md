@@ -7,3 +7,6 @@
 - 📚 Cursando ADS
 - 💬 email pra contato: antonydavidsilva66@gmail.com
  
+## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/AntonyD18/AntonyD18/blob/output/github-contribution-grid-snake.svg)
